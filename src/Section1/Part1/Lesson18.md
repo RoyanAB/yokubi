@@ -4,10 +4,10 @@
 
 <pre>
 <span lang="ja">家には猫が</span><b><span lang="ja">いる</span></b>
-In the house there is a cat.
+家里有一只猫。
 
 <span lang="ja">店が</span><b><span lang="ja">ある</span></b>
-There is a shop.
+有一家店。
 </pre>
 
 <div class="warning">
@@ -18,10 +18,10 @@ There is a shop.
 
 <pre>
 <span lang="ja">デスクが</span><b><span lang="ja">ある</span></b>
-There's a desk / I have a desk
+有一张桌子 / 我有一张桌子
 
 <span lang="ja">私の家には猫が</span><b><span lang="ja">いる</span></b>
-I have a cat.
+我有一只猫。
 </pre>
 
 <span lang="ja">いる</span> 作为一段动词活用。
@@ -42,17 +42,17 @@ I have a cat.
 
 <pre>
 <span lang="ja">店は</span><b><span lang="ja">ない</span></b>
-There is no store.
+没有店。
 </pre>
 
 现在我们知道 <span lang="ja">ある</span> 了，我们可以提出 <span lang="ja">だ</span> 的起源：<span lang="ja">である</span>。<span lang="ja">である</span> 是 <span lang="ja">だ</span>（是）的正式版本。与 <span lang="ja">だ</span> 和 <span lang="ja">です</span> 不同，<span lang="ja">である</span> 可以用于附着到名词上的关系从句：
 
 <pre>
 *<span lang="ja">友達だ人</span>  
-(ungrammatical nonsense)
+（不合语法的废话）
 
 <span lang="ja">友達</span><b><span lang="ja">である</span></b><span lang="ja">人</span>
-Person who is a friend (formal)
+是朋友的人（正式）
 </pre>
 
 你可能记得我们使用了 <span lang="ja">ではない</span> 作为 <span lang="ja">だ</span> 的否定形式。<span lang="ja">ではない</span> 基本上就是 <span lang="ja">である</span> 的否定形。

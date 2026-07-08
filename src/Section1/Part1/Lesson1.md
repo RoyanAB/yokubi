@@ -8,10 +8,10 @@
 
 <pre>
 <span lang="ja">ペンだ。</span>
-It's a pen.
+是一支笔。
 
 <span lang="ja">ネコです。</span>
-It is a cat.
+是一只猫。
 </pre>
 
 <span lang="ja">だ</span> 和 <span lang="ja">です</span> 之间的区别通常在于礼貌程度和正式程度。需要记住的一个重要点是，虽然 <span lang="ja">です</span> 是 <span lang="ja">だ</span> 的礼貌形式，但两者并不总是可以互换，而且有很多不同的用法。你不能总是随意地将 <span lang="ja">だ</span> 替换为 <span lang="ja">です</span>（反之亦然）。你将在后面的课程中学习其中一些用法。
@@ -22,10 +22,10 @@ It is a cat.
 
 <pre>
 <span lang="ja">人じゃない</span>
-It's not a person
+不是人。
 
-<span lang="ja">本じゃないです</span> or <span lang="ja">本ではありません</span>
-It is not a book (polite)
+<span lang="ja">本じゃないです</span> 或 <span lang="ja">本ではありません</span>
+不是书（礼貌形）
 </pre>
 
 日语有两种基本时态：普通形和过去形。由于词典以普通形列出动词，它有时也被称为"词典形"。在此上下文中，"形"和"时态"是可以互换的。
@@ -34,10 +34,10 @@ It is not a book (polite)
 
 <pre>
 <span lang="ja">オレだった！</span> 
-It was me! (casual)
+是我！（随意）
 
 <span lang="ja">そうでした</span>
-That was so. (polite)
+是那样的。（礼貌形）
 </pre>
 
 词典形通常被称为现在时或非过去时。重要的是要记住它可以在很多情况下使用。现在时和非过去时是合理的名称，但不要将名称当作规则，有时名称会令人困惑。本指南将交替使用这些名称。

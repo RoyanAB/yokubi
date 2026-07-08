@@ -9,21 +9,21 @@
 以下是一些例子。不用费心去记忆这些单词表。在本指南之外学习词汇。
 
 <pre>
-<span lang="ja">私・わたし</span> me (normal, slightly formal when men use it)  
-<span lang="ja">あたし</span> me (casual, feminine)  
-<span lang="ja">俺・おれ</span> me (casual, masculine)  
-<span lang="ja">僕・ぼく</span> me (casual or polite, masculine)  
-<span lang="ja">彼・かれ</span> him  
-<span lang="ja">彼女・かのじょ</span> her  
-<span lang="ja">あなた</span> you
+<span lang="ja">私・わたし</span> 我（普通，男性使用时稍显正式）  
+<span lang="ja">あたし</span> 我（随意，女性用语）  
+<span lang="ja">俺・おれ</span> 我（随意，男性用语）  
+<span lang="ja">僕・ぼく</span> 我（随意或礼貌，男性用语）  
+<span lang="ja">彼・かれ</span> 他  
+<span lang="ja">彼女・かのじょ</span> 她  
+<span lang="ja">あなた</span> 你
 </pre>
 
 如前所述，日语不需要区分单数和复数。如果不显式添加特殊的复数化词，只有上下文会告诉你某事物是单数还是复数。不过，有时你可能想清楚地表明你在谈论复数。在这种情况下，你可以使用特殊的后缀。其中一种后缀是 <span lang="ja">達</span>。它可以应用于代词和名词，用于指代该名词/代词所属的整个群体。
 
 <pre>
-<span lang="ja">私達・わたしたち</span> Us  
-<span lang="ja">ジム達・じむたち</span> Jim and company  
-<span lang="ja">ペン達・ぺんたち</span> The pen and stuff
+<span lang="ja">私達・わたしたち</span> 我们  
+<span lang="ja">ジム達・じむたち</span> 吉姆等人  
+<span lang="ja">ペン達・ぺんたち</span> 笔之类的东西
 </pre>
 
 <span lang="ja">達</span> 通常用于有生命的事物，上面与"笔"搭配的用法被认为是口语化的，或者至少是非正式的。它只是出现得足够多，值得一提。
@@ -31,16 +31,16 @@
 日语有复合词，其构成方式与英语相同。
 
 <pre>
-<span lang="ja">町・まち</span> town, district  
-<span lang="ja">中・なか</span> inside, middle  
-<span lang="ja">町中・まちなか</span> downtown, the middle of town
+<span lang="ja">町・まち</span> 城镇，街区  
+<span lang="ja">中・なか</span> 内部，中间  
+<span lang="ja">町中・まちなか</span> 市中心，城镇的中心
 </pre>
 
 日语像英语一样有前缀和后缀。这些与复合词不同，因为它们不能作为独立的单词存在，必须附加到别的词上。
 
 <pre>
-<span lang="ja">研究・けんきゅう</span> research  
-<span lang="ja">研究者・けんきゅうしゃ</span> researcher
+<span lang="ja">研究・けんきゅう</span> 研究  
+<span lang="ja">研究者・けんきゅうしゃ</span> 研究人员
 </pre>
 
 <span lang="ja">者</span>，在这里读作 <span lang="ja">しゃ</span>，是一个后缀。它可以像复合词的一部分那样起作用，但不能作为独立的单词单独存在。当 <span lang="ja">者</span> 单独出现在句子中时，它是一个不同的词，也不读作 <span lang="ja">しゃ</span>。*感谢汉字*。

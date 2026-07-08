@@ -18,13 +18,13 @@
 
 <pre>
 <span lang="ja">殺</span><b><span lang="ja">す</span></b>
-He kills
+他杀
 
 <span lang="ja">殺</span><b><span lang="ja">さ</span></b><span lang="ja">ない</span>
-He doesn't kill
+他不杀
 
 <span lang="ja">殺</span><b><span lang="ja">し</span></b><span lang="ja">た</span>
-He killed
+他杀了
 </pre>
 
 没错。像时态和否定这样的基本内容只使用三种词干。还有更多词干，但它们出现的频率较低。我们稍后会讨论它们。

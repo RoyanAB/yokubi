@@ -6,7 +6,7 @@
 
 <pre>
 <span lang="ja">誰か</span><b><span lang="ja">が</span></b><span lang="ja">外</span><b><span lang="ja">から</span></b><span lang="ja">俺の部屋</span><b><span lang="ja">へ</span></b><span lang="ja">ノック</span><b><span lang="ja">を</span></b><span lang="ja">した。</span>
-Someone knocked on my door from outside.
+有人从外面敲了我的门。
 </pre>
 
 英语翻译甚至没有对任何名词进行标记。助词让事情变得更容易，至少对语言学习者来说是这样。
@@ -17,7 +17,7 @@ Someone knocked on my door from outside.
 
 <pre>
 <span lang="ja">東京</span><b><span lang="ja">へ</span></b><span lang="ja">行く</span>
-Go <b>towards</b> Tokyo / Headed <b>for</b> Tokyo
+<b>前往</b>东京 / <b>朝</b>东京去
 </pre>
 
 在很多句子中，<span lang="ja">へ</span> 和 <span lang="ja">に</span> 可以互换，含义差异极小。<span lang="ja">へ</span> 有时听起来更正式或更具文学性。
@@ -26,13 +26,13 @@ Go <b>towards</b> Tokyo / Headed <b>for</b> Tokyo
 
 <pre>
 <span lang="ja">東京</span><b><span lang="ja">に</span></b><span lang="ja">暮らす</span>
-To live <b>in</b> Tokyo (location of existence)
+<b>在</b>东京生活（存在的位置）
 
 <span lang="ja">学校</span><b><span lang="ja">に</span></b><span lang="ja">来る</span>
-Come <b>to</b> school. (target of direction)
+<b>来</b>学校。（方向的目标）
 
 <span lang="ja">朝の５時</span><b><span lang="ja">に</span></b><span lang="ja">起きた</span>
-I woke up <b>at</b> 5 in the morning. (point in time)
+我<b>在</b>早上5点醒了。（时间点）
 </pre>
 
 请注意这些都不是严格的规则。实际上，哪种助词最合适取决于句子中使用的具体动词。一般性的规则或解释可以帮助你记住这些情况，但唯一真正确定的方法是凭经验。你必须记住哪个动词搭配哪个助词，因为这常常会感觉相当随意。
@@ -41,17 +41,17 @@ I woke up <b>at</b> 5 in the morning. (point in time)
 
 <pre>
 <span lang="ja">研究者</span><b><span lang="ja">に</span></b><span lang="ja">なる</span>
-To become a researcher.
+成为一名研究人员。
 
 <span lang="ja">彼</span><b><span lang="ja">に</span></b><span lang="ja">手紙を渡した</span>
-I gave him the letter.
+我把信交给了他。
 </pre>
 
 有时 <span lang="ja">に</span> 也可以替换在英语中被认为是他动词的动词中的直接宾语。
 
 <pre>
 <span lang="ja">電車</span><b><span lang="ja">に</span></b><span lang="ja">乗る</span>
-To ride the train
+乘坐电车
 </pre>
 
 本课中的所有助词也可以用很多其他方式使用。你应该在遇到它们时逐一学习，因为我们不会全部列出。
@@ -60,7 +60,7 @@ To ride the train
 
 <pre>
 <span lang="ja">私の家</span><b><span lang="ja">から</span></b><span lang="ja">来る</span>   
-It comes <b>from</b> my house
+它<b>从</b>我家来
 </pre>
 
 这里 <span lang="ja">から</span> 附着在 <span lang="ja">私の家</span> 上，这可以被认为是一个短语（"我的房子"）。

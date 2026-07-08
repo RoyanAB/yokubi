@@ -12,20 +12,20 @@
 
 <pre>
 <span lang="ja">食べる人</span>
-Person that eats
+吃的人
 
 <span lang="ja">私にくれる人</span>
-People that give to me
+给我东西的人
 </pre>
 
 <span lang="ja">だ</span> 的基本形不能构成关系从句，因为它不能直接连接到名词的左边，但它的过去形可以。
 
 <pre>
 *<span lang="ja">必要だ食べ物です</span>
-(ungrammatical)
+（不合语法）
 
 <span lang="ja">好き</span><b><span lang="ja">だった</span></b><span lang="ja">食べ物</span>
-Food that I liked
+我喜欢的食物
 </pre>
 
 在极少数情况下，这条规则可以被打破，但它是一条真正的规则，不是假的。不要造以 <span lang="ja">だ</span> 结尾的关系从句。
@@ -34,13 +34,13 @@ Food that I liked
 
 <pre>
 <span lang="ja">君</span><b><span lang="ja">の</span></b><span lang="ja">来た場所</span>
-The place where you came (from)
+你来的地方
 
 <span lang="ja">私</span><b><span lang="ja">の</span></b><span lang="ja">食べたラーメン</span>
-The ramen I ate
+我吃过的拉面
 
 <span lang="ja">私がラーメンを食べたレストラン</span>
-The restaurant I ate ramen at
+我吃拉面的那家餐厅
 </pre>
 
 在最后一个例子中，<span lang="ja">の</span> 不能替换 <span lang="ja">が</span>，因为 <span lang="ja">私のラーメンを食べたレストラン</span> 会假定一个非常不同的、近乎荒谬的含义（"吃了我拉面的餐厅"）。

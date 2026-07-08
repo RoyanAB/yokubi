@@ -58,5 +58,5 @@
 
 <pre>
 <span lang="ja">飲ん</span><b><span lang="ja">では</span></b><span lang="ja">笑い、笑っ</span><b><span lang="ja">ては</span></b><span lang="ja">飲む。</span>
-他喝然后笑，又笑然后喝。
+他边喝边笑，边笑边喝。
 </pre>

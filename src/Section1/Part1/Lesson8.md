@@ -10,7 +10,7 @@
 
 <pre>
 <b><span lang="ja">赤い</span></b><span lang="ja">火</span>
-Red fire
+红色的火焰
 </pre>
 
 <span lang="ja">い</span>-形容词类似于动词的原因在于它们可以活用。
@@ -19,7 +19,7 @@ Red fire
 
 <pre>
 <span lang="ja">火が赤い</span>
-The fire is red.
+火焰是红色的。
 </pre>
 
 你**绝对不能**在它后面加 <span lang="ja">だ</span>：
@@ -34,25 +34,25 @@ The fire is red.
 
 <pre>
 <span lang="ja">火が赤い</span>
-The fire is red
+火焰是红色的
 
 <span lang="ja">火が赤い</span><b><span lang="ja">です</span></b>
-The fire is red (polite)
+火焰是红色的（礼貌形）
 </pre>
 
-除了 <span lang="ja">です</span> 之外，还有一些其他结构会在一形容词后放 <span lang="ja">だ</span>，但这些是特定的固定表达。如果你看到它们，不要惊讶，但现在不用太担心。
+除了 <span lang="ja">です</span> 之外，还有一些其他结构会在い-形容词后放 <span lang="ja">だ</span>，但这些是特定的固定表达。如果你看到它们，不要惊讶，但现在不用太担心。
 
 像动词一样，你也可以活用 <span lang="ja">い</span>-形容词。你可以将 <span lang="ja">い</span> 替换为 <span lang="ja">かった</span> 或 <span lang="ja">くない</span> 来附加过去或否定活用：
 
 <pre>
 <span lang="ja">火が赤</span><b><span lang="ja">かった</span></b>
-The fire <b>was</b> red.
+火焰<b>曾经是</b>红色的。
 
 <span lang="ja">火が赤</span><b><span lang="ja">くない</span></b>
-The fire is <b>not</b> red.
+火焰<b>不是</b>红色的。
 
 <span lang="ja">火が赤</span><b><span lang="ja">くなかった</span></b>
-The fire <b>was not</b> red.
+火焰<b>曾经不是</b>红色的。
 </pre>
 
 形容词 <span lang="ja">いい</span> 是一个例外，它变为 <span lang="ja">よい</span> \-\> <span lang="ja">よかった</span> / <span lang="ja">よくない</span>。
@@ -61,21 +61,21 @@ The fire <b>was not</b> red.
 
 <pre>
 <span lang="ja">見</span><b><span lang="ja">る</span></b>
-to see (ichidan plain form)
+看（一段动词普通形）
 
 <span lang="ja">見</span><b><span lang="ja">ない</span></b>
-to not see (negative)
+不看（否定形）
 
 <span lang="ja">見</span><b><span lang="ja">なかった</span></b>
-did not see (negative, past)
+没看（否定过去形）
 </pre>
 
 形容词可以通过将 <span lang="ja">い</span> 替换为 <span lang="ja">さ</span> 来变成抽象名词。还有更多的方法可以做到这一点，但 <span lang="ja">さ</span> 是目前最常见的。
 
 <pre>
 <span lang="ja">大き</span><b><span lang="ja">い</span></b>
-large/big (adj)
+大的（形容词）
 
 <span lang="ja">大き</span><b><span lang="ja">さ</span></b>
-size/largeness (noun)
+大小/巨大（名词）
 </pre>

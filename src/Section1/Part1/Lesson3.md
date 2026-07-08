@@ -16,7 +16,7 @@
 
 <pre>
 <span lang="ja">ネコ</span><b><span lang="ja">が</span></b><span lang="ja">サカナ</span><b><span lang="ja">を</span></b><span lang="ja">食べる</span>
-A cat eats a fish.
+一只猫吃一条鱼。
 </pre>
 
 在这里，<span lang="ja">が</span> 将 <span lang="ja">ネコ</span> 标记为主语。<span lang="ja">を</span> 将 <span lang="ja">サカナ</span> 标记为直接宾语。然后动词出现在句子的末尾。像"吃"这样的动词的主语是做出"吃"这个动作的事物。宾语是被吃的东西。
@@ -25,10 +25,10 @@ A cat eats a fish.
 
 <pre>
 <span lang="ja">サカナ</span><b><span lang="ja">は</span></b><span lang="ja">ネコ</span><b><span lang="ja">が</span></b><span lang="ja">食べる</span>
-The fish, a cat eats it.
+鱼，猫吃它。
 
 <span lang="ja">ネコ</span><b><span lang="ja">は</span></b><span lang="ja">サカナ</span><b><span lang="ja">を</span></b><span lang="ja">食べる</span>
-The cat, it eats a fish.
+猫，它吃鱼。
 </pre>
 
 由于默认习惯是先引入一个主题，然后用句子的其余部分描述它，因此当我们有意选择明确使用非主题助词（如 <span lang="ja">が</span>）且原本预期会使用主题时，这就会给句子的那部分增加额外的焦点。这种"焦点"是**在** <span lang="ja">が</span> 作为主语标记的功能**之外**的，而不是替代它。<span lang="ja">が</span> 具有这种细微意义很常见，但并非所有 <span lang="ja">が</span> 都是焦点标记，有时它们只是中性的主语，主题是别的东西。
@@ -37,10 +37,10 @@ The cat, it eats a fish.
 
 <pre>
 <span lang="ja">ネコ</span><b><span lang="ja">が</span></b><span lang="ja">サカナ</span><b><span lang="ja">を</span></b><span lang="ja">食べる</span>
-Cats are the ones that eat fish.
+猫才是吃鱼的。
 
 <span lang="ja">ネコ</span><b><span lang="ja">は</span></b><span lang="ja">サカナ</span><b><span lang="ja">を</span></b><span lang="ja">食べる</span>
-Cats eat fish. 
+猫吃鱼。
 </pre>
 
 英语使用冠词和特殊的句型来表达这种焦点，但日语需要依赖助词，因为语序在语法上不重要。
@@ -51,12 +51,12 @@ Cats eat fish.
 
 <pre>
 <span lang="ja">ネコ</span><b><span lang="ja">は</span></b><span lang="ja">魚</span><b><span lang="ja">を</span></b><span lang="ja">食べる</span>
-Cats eat fish (cats in general)
-The cat eats fish (the cat we were talking about)
+猫吃鱼（指一般的猫）
+这只猫吃鱼（我们之前谈论的那只猫）
 
 <span lang="ja">ネコ</span><b><span lang="ja">が</span></b><span lang="ja">魚</span><b><span lang="ja">を</span></b><span lang="ja">食べる</span>  
-A cat eats fish (a particular arbitrary cat)  
-The cat is the one that eats fish (a specific cat out of a group)
+有一只猫在吃鱼（某只特定的任意一只猫）  
+猫才是吃鱼的那个（从一群中选出的特定一只猫）
 </pre>
 
 本课只是触及了 <span lang="ja">は</span> 和 <span lang="ja">が</span> 可以承担的各种角色的表面。不要试图将它们当作普遍真理来记忆，只需要意识到当你在上下文中看到这些句子时它们可能传达的一般感觉和含义。

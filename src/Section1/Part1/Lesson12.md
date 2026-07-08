@@ -4,30 +4,30 @@
 
 <pre>
 <span lang="ja">野菜を食べ</span><b><span lang="ja">てください</span></b>
-Please eat your veggies
+请吃你的蔬菜
 
 <span lang="ja">食べ</span><b><span lang="ja">て</span></b><span lang="ja">、少年</span>
-Eat, boy.
+吃吧，孩子。
 
 <span lang="ja">見</span><b><span lang="ja">て</span></b><span lang="ja">！</span>
-Look!
+看！
 </pre>
 
 它也可以以 <span lang="ja">ないでください</span> 的形式与否定动词一起使用，以表达柔和的禁止或否定请求。
 
 <pre>
 <span lang="ja">バカなことを言わない</span><b><span lang="ja">でください</span></b>
-Don't say stupid things, please
+请不要说蠢话
 
 <span lang="ja">食べ</span><b><span lang="ja">ないで</span></b>
-Please don't eat.
+请不要吃。
 </pre>
 
 <span lang="ja">ください</span> 也可以作为独立动词使用，而不是作为助动词。在这种情况下，它的意思是"请给我"。你可以在商店里用它来点东西。
 
 <pre>
 <span lang="ja">肉まんを</span><b><span lang="ja">ください</span></b>
-Please give me a nikuman
+请给我一个肉包
 </pre>
 
 值得注意的是，在日语中还有其他方式来下达命令和祈使。<span lang="ja">て</span>(<span lang="ja">ください</span>) 形式是相当弱和相当柔和的命令。它更接近一个礼貌的请求，而不是直接的命令。
@@ -38,21 +38,21 @@ Please give me a nikuman
 
 <pre>
 <span lang="ja">見</span><b><span lang="ja">ろ</span></b><span lang="ja">！</span>
-Look!
+看！
 
 <span lang="ja">殺</span><b><span lang="ja">せ</span></b>
-Kill!
+杀！
 
 <span lang="ja">切</span><b><span lang="ja">れ</span></b>
-Cut!
+切！
 
 <span lang="ja">買</span><b><span lang="ja">え</span></b>
-Buy!
+买！
 </pre>
 
 一段动词还有一个替代的命令形，但你现在可以忽略它。它听起来古旧且浮夸。只需记住它存在：
 
 <pre>
 <span lang="ja">食べ</span><b><span lang="ja">よ</span></b><span lang="ja">！</span>
-Eat!
+吃！
 </pre>

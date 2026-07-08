@@ -4,38 +4,38 @@
 
 <pre>
 <span lang="ja">私</span><b><span lang="ja">の</span></b><span lang="ja">ネコ</span>
-My cat
+我的猫
 
 <span lang="ja">君</span><b><span lang="ja">の</span></b>X
-Your X.
+你的X。
 
 <span lang="ja">ネコ</span><b><span lang="ja">の</span></b><span lang="ja">先</span>
-Ahead of the cat
+猫的前方
 
 <span lang="ja">男</span><b><span lang="ja">の</span></b><span lang="ja">子</span>
-Boy (metaphorically, male child)
+男孩（比喻说法，男性的孩子）
 </pre>
 
 如果你迷路了，记住 <span lang="ja">の</span> 最简单的方式是：它像"的"，但是反向应用的。
 
 <pre>
 <span lang="ja">夜</span><b><span lang="ja">の</span></b><span lang="ja">人</span>
-Person of the night
+夜之人
 </pre>
 
 有时"的"会让人困惑，你需要记住"属性"的概念。
 
 <pre>
 <span lang="ja">夜</span><b><span lang="ja">の</span></b><span lang="ja">海</span>   
-The night sea
+夜晚的海
 
 <span lang="ja">海</span><b><span lang="ja">の</span></b><span lang="ja">夜</span>   
-Night on the sea (NOT "night of the sea")
+海上的夜晚（不是"海的夜晚"）
 </pre>
 
 <span lang="ja">の</span> 实际上是整个日语中最常见的词，所以一定要牢牢记住它！
 
 <pre>
 <span lang="ja">彼女</span><b><span lang="ja">の</span></b><span lang="ja">子供</span><b><span lang="ja">の</span></b><span lang="ja">名前だ。</span>
-It is her child's name.
+是她孩子的名字。
 </pre>

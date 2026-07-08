@@ -7,10 +7,10 @@
 这里有一个例子，使用了 <span lang="ja">ます</span>（礼貌）形，我们将在[第17课](./Lesson17.md)中正式学习。不用费心去记忆这个表。
 
 <pre>
-<span lang="ja">見</span><b><span lang="ja">る</span></b><span lang="ja">／見ます</span>, ichidan verb.
-<span lang="ja">切</span><b><span lang="ja">る</span></b><span lang="ja">／切</span><b><span lang="ja">り</span></b><span lang="ja">ます</span>, godan verb, ending in <span lang="ja">る</span>.
-<span lang="ja">買</span><b><span lang="ja">う</span></b><span lang="ja">／買</span><b><span lang="ja">い</span></b><span lang="ja">ます</span>, godan verb, ending in <span lang="ja">う</span>.
-<span lang="ja">死</span><b><span lang="ja">ぬ</span></b><span lang="ja">／死</span><b><span lang="ja">に</span></b><span lang="ja">ます</span>, godan verb, ending in <span lang="ja">ぬ</span>.
+<span lang="ja">見</span><b><span lang="ja">る</span></b><span lang="ja">／見ます</span>，一段动词。
+<span lang="ja">切</span><b><span lang="ja">る</span></b><span lang="ja">／切</span><b><span lang="ja">り</span></b><span lang="ja">ます</span>，五段动词，以 <span lang="ja">る</span> 结尾。
+<span lang="ja">買</span><b><span lang="ja">う</span></b><span lang="ja">／買</span><b><span lang="ja">い</span></b><span lang="ja">ます</span>，五段动词，以 <span lang="ja">う</span> 结尾。
+<span lang="ja">死</span><b><span lang="ja">ぬ</span></b><span lang="ja">／死</span><b><span lang="ja">に</span></b><span lang="ja">ます</span>，五段动词，以 <span lang="ja">ぬ</span> 结尾。
 </pre>
 
 一段动词总是以 <span lang="ja">る</span> 结尾，在活用时只需去掉 <span lang="ja">る</span>。<span lang="ja">る</span> 前面的部分是动词的基本身份，不会改变。你可以称其为动词的"词干"。就活用而言，动词本身只有"一种形式"。

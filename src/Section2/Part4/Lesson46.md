@@ -2,7 +2,7 @@
 
 <span lang="ja">だけ</span>、<span lang="ja">のみ</span>和<span lang="ja">ばかり</span>是"仅仅"或"只有"的变体。<span lang="ja">しか</span>类似，但只能用于否定句中。
 
-<span lang="ja">だけ</span>在数量方面表示"恰恰就是"。它像助词一样作用。
+<span lang="ja">だけ</span>在数量方面表示"恰恰就是"。它起着类似助词的作用。
 
 <pre>
 <span lang="ja">俺</span><b><span lang="ja">だけ</span></b><span lang="ja">行く</span>

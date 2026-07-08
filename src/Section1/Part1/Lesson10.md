@@ -41,7 +41,7 @@
 
 <pre>
 <span lang="ja">察しがよく</span><b><span lang="ja">て</span></b><span lang="ja">助かる</span>
-It is a relief that you have good intuition. (lit. you have good intuition and that helps me)
+你很有悟性，帮了大忙。（直译：你悟性好，这帮助了我）
 </pre>
 
 注意：在 <span lang="ja">て</span> 后面是否使用逗号不重要。一般来说，逗号在日语中没有语法作用，但它们可以让解析变得更容易。
@@ -50,14 +50,14 @@ It is a relief that you have good intuition. (lit. you have good intuition and t
 
 <pre>
 <span lang="ja">遅くなっ</span><b><span lang="ja">て</span></b><span lang="ja">すみません</span>
-I'm sorry for being late (lit. "I am late and I am sorry")
+对不起我迟到了（直译："我迟到了，很抱歉"）
 </pre>
 
 在常见的搭配 <span lang="ja">〜てすみません</span> 中，<span lang="ja">て</span> 之前的部分表示道歉的原因。
 
 <pre>
 <span lang="ja">彼女の目を見</span><b><span lang="ja">て</span></b><span lang="ja">、頷いた</span>  
-I looked her in the eyes <b>and</b> I nodded
+我看着她的眼睛<b>然后</b>点了点头
 </pre>
 
 在这个例子中，<span lang="ja">て</span> 只是将语句作为简单的动作序列串联起来。如前所述，<span lang="ja">て</span> 形不提供任何过去或现在的时态概念。时态是由序列中最后一个动词传达的。<span lang="ja">頷いた</span> 是过去形，所以我们可以假设整个语句是过去时。
@@ -66,12 +66,12 @@ I looked her in the eyes <b>and</b> I nodded
 
 <pre>
 <span lang="ja">腹が減っ</span><b><span lang="ja">ては</span></b><span lang="ja">戦はできない</span>
-It is impossible to go to war when you are hungry.
+肚子饿了就无法打仗。
 </pre>
 
 <span lang="ja">ない</span> 的 <span lang="ja">て</span> 形，即 <span lang="ja">なくて</span>，通常带有"没有做 X，所以 Y"的细微含义。但这只是一种细微含义。这仅仅是它可能的用法之一。
 
 <pre>
 <span lang="ja">早く起き</span><b><span lang="ja">なくて</span></b><span lang="ja">仕事に遅れた</span>  
-I didn't get up early, and I was late for work. (reason)
+没有早起，结果上班迟到了。（原因）
 </pre>

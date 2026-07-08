@@ -4,10 +4,10 @@
 
 <pre>
 <span lang="ja">バカ</span><b><span lang="ja">な</span></b><span lang="ja">子供</span>
-Stupid kid
+傻孩子
 
 <span lang="ja">大好き</span><b><span lang="ja">な</span></b><span lang="ja">人</span>
-Beloved person
+心爱的人
 </pre>
 
 现在我们学习了什么是关系从句，了解"定语地"这个词基本上就是"作为关系从句"的意思，这很好。
@@ -16,7 +16,7 @@ Beloved person
 
 <pre>
 <span lang="ja">この部屋は静か</span><b><span lang="ja">だ</span></b>
-This room is quiet.
+这个房间很安静。
 </pre>
 
 <div class="warning">
@@ -27,10 +27,10 @@ This room is quiet.
 
 <pre>
 <span lang="ja">魔法の世界</span>
-World of magic
+魔法的世界
 
 <span lang="ja">魔法な世界</span>
-Magic-ish world
+带有魔法感的世界
 </pre>
 
 <span lang="ja">魔法</span> 是一个名词（魔法），通常不会这样接 <span lang="ja">な</span>，但一些作者可能会写出这样的东西来赋予它一种特殊的感觉。
@@ -39,16 +39,16 @@ Magic-ish world
 
 <pre>
 <span lang="ja">元気</span><b><span lang="ja">な</span></b><span lang="ja">人</span>
-An energetic person
+精力充沛的人
 
 <span lang="ja">元気</span><b><span lang="ja">が</span></b><span lang="ja">出る</span>
-To feel energized (lit. energy comes out)
+打起精神（直译：精力涌出）
 
 <span lang="ja">静か</span><b><span lang="ja">な</span></b><span lang="ja">人</span>
-A quiet person
+安静的人
 
 *<span lang="ja">静か</span><b><span lang="ja">が</span></b><span lang="ja">？？？</span>
-(ungrammatical sentence fragment)
+（不合语法的句子片段）
 </pre>
 
 在上面的例子中，<span lang="ja">元気</span> 既可以作为 <span lang="ja">な</span>-形容词，也可以作为名词，但 <span lang="ja">静か</span> 只能作为 <span lang="ja">な</span>-形容词。
@@ -57,8 +57,8 @@ A quiet person
 
 <pre>
 <span lang="ja">英語の本</span>
-English-language books. (NOT "books of english")
+英文书。（不是"英语的书"）
 
 <span lang="ja">普通</span><b><span lang="ja">の</span></b><span lang="ja">人</span>
-A normal person.
+普通人。
 </pre>
