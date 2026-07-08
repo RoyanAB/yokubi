@@ -1,0 +1,48 @@
+# 名词、代词
+
+日语有名词（<span lang="ja">名詞</span>）和代词（<span lang="ja">代名詞</span>），和英语一样。代词在日语中不像英语中那么特殊，大多数时候表现得就像普通名词。
+
+大多数时候，日语不区分单数和复数。名词和动词无需在数、人称或性上保持一致。日语可以通过给名词添加某些后缀来明确地指代一个群体，但这些都不是真正的复数。它们通常用来传达普通复数所没有的额外信息。
+
+日语有大量英语没有的人称代词（我、你、他们），但指示代词系统（这个、那个、这些、那些）则规律得多。此外，日语代词不像英语那样因格而变化形式（he vs him）。你只需给它们加上后缀即可。
+
+以下是一些例子。不用费心去记忆这些单词表。在本指南之外学习词汇。
+
+<pre>
+<span lang="ja">私・わたし</span> me (normal, slightly formal when men use it)  
+<span lang="ja">あたし</span> me (casual, feminine)  
+<span lang="ja">俺・おれ</span> me (casual, masculine)  
+<span lang="ja">僕・ぼく</span> me (casual or polite, masculine)  
+<span lang="ja">彼・かれ</span> him  
+<span lang="ja">彼女・かのじょ</span> her  
+<span lang="ja">あなた</span> you
+</pre>
+
+如前所述，日语不需要区分单数和复数。如果不显式添加特殊的复数化词，只有上下文会告诉你某事物是单数还是复数。不过，有时你可能想清楚地表明你在谈论复数。在这种情况下，你可以使用特殊的后缀。其中一种后缀是 <span lang="ja">達</span>。它可以应用于代词和名词，用于指代该名词/代词所属的整个群体。
+
+<pre>
+<span lang="ja">私達・わたしたち</span> Us  
+<span lang="ja">ジム達・じむたち</span> Jim and company  
+<span lang="ja">ペン達・ぺんたち</span> The pen and stuff
+</pre>
+
+<span lang="ja">達</span> 通常用于有生命的事物，上面与"笔"搭配的用法被认为是口语化的，或者至少是非正式的。它只是出现得足够多，值得一提。
+
+日语有复合词，其构成方式与英语相同。
+
+<pre>
+<span lang="ja">町・まち</span> town, district  
+<span lang="ja">中・なか</span> inside, middle  
+<span lang="ja">町中・まちなか</span> downtown, the middle of town
+</pre>
+
+日语像英语一样有前缀和后缀。这些与复合词不同，因为它们不能作为独立的单词存在，必须附加到别的词上。
+
+<pre>
+<span lang="ja">研究・けんきゅう</span> research  
+<span lang="ja">研究者・けんきゅうしゃ</span> researcher
+</pre>
+
+<span lang="ja">者</span>，在这里读作 <span lang="ja">しゃ</span>，是一个后缀。它可以像复合词的一部分那样起作用，但不能作为独立的单词单独存在。当 <span lang="ja">者</span> 单独出现在句子中时，它是一个不同的词，也不读作 <span lang="ja">しゃ</span>。*感谢汉字*。
+
+有些词可以有多种读法。<span lang="ja">明日</span>，意思是"明天"，通常读作 <span lang="ja">あした</span>，但也可以读作 <span lang="ja">あす</span>（正式，并不罕见）或 <span lang="ja">みょうにち</span>（更正式，更加罕见）。当你开始阅读时，要注意读音的变化，否则你会非常困惑。
